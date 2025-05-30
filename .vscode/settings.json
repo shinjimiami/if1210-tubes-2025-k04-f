@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "adt.h": "c",
+        "string.h": "c",
+        "user_interface.h": "c",
+        "help_functions.h": "c",
+        "data_manager.h": "c",
+        "denah_functions.h": "c",
+        "stdlib.h": "c",
+        "definitions.h": "c",
+        "doctor_functions.h": "c",
+        "session_manager.h": "c",
+        "command_handler.h": "c"
+    }
+}
